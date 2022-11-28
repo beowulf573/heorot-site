@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Widdershins</title>
+		<description>Software Engineer at Large</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Same as it ever was</title>
+				
+				
+					<description>&lt;p&gt;A bit of house keeping, still not finding the time to update pages despite my best intentions.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 11 Nov 2022 02:20:06 -0600</pubDate>
+				<link>http://localhost:8000/2022/11/11/Same-as-it-ever-was/</link>
+				<guid isPermaLink="true">http://localhost:8000/2022/11/11/Same-as-it-ever-was/</guid>
+			</item>
+		
+			<item>
+				<title>Rocket Firing Boba Fett</title>
+				
+				
+					<description>&lt;p&gt;Yes, they don’t really exists, until now.  In 1978 up to 100 prototype rocket firing Boba Fett action figures were made until several children were injured and one killed by the rocket from the rocket firing Colonial Viper toy.  Kenner quickly shifted gears and fixed the rocket to the jetpack.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 16 Aug 2021 07:56:55 -0500</pubDate>
+				<link>http://localhost:8000/2021/08/16/Rocket-Firing-Boba-Fett/</link>
+				<guid isPermaLink="true">http://localhost:8000/2021/08/16/Rocket-Firing-Boba-Fett/</guid>
+			</item>
+		
+			<item>
+				<title>Theme</title>
+				
+				
+					<description>&lt;h2 id=&quot;a-borrowed-theme&quot;&gt;A Borrowed Theme&lt;/h2&gt;
+</description>
+				
+				<pubDate>Sat, 25 Aug 2018 09:57:37 -0500</pubDate>
+				<link>http://localhost:8000/2018/08/25/Theme/</link>
+				<guid isPermaLink="true">http://localhost:8000/2018/08/25/Theme/</guid>
+			</item>
+		
+			<item>
+				<title>Dome Drive</title>
+				
+				
+					<description>&lt;p&gt;Finally, something is moving on the R2.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nY0vveZ12LM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The gear is taken from &lt;a href=&quot;http://r2d2.media-conversions.net/&quot;&gt;Media Conversions&lt;/a&gt;, I took the basic dxf file, imported it into Fusion 360, extruded it, and
+chopped it up using a jigsaw type connection so each piece would fit on my print bed.  So far I’m very happy with the result.&lt;/p&gt;
+
+&lt;p&gt;I’m powering it right now with a small 12V DC power adapter intended for use with LED strips.  However it may be underpowered, the Arduino seems to 
+reset after continuous use.  The DC motor may be pulling too many amps.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 21 Aug 2018 00:00:00 -0500</pubDate>
+				<link>http://localhost:8000/2018/08/21/dome-drive/</link>
+				<guid isPermaLink="true">http://localhost:8000/2018/08/21/dome-drive/</guid>
+			</item>
+		
+			<item>
+				<title>Another reboot</title>
+				
+				
+					<description>&lt;p&gt;Years have gone by and I haven’t done a thing with this website.  Here’s a quick reboot so at least it looks nice.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 19 Aug 2018 00:00:00 -0500</pubDate>
+				<link>http://localhost:8000/2018/08/19/start-again/</link>
+				<guid isPermaLink="true">http://localhost:8000/2018/08/19/start-again/</guid>
+			</item>
+		
+	</channel>
+</rss>

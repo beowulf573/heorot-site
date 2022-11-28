@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:8000/2018/08/19/start-again/</loc>
+<lastmod>2018-08-19T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:8000/2018/08/21/dome-drive/</loc>
+<lastmod>2018-08-21T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:8000/2018/08/25/Theme/</loc>
+<lastmod>2018-08-25T09:57:37-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:8000/2021/08/16/Rocket-Firing-Boba-Fett/</loc>
+<lastmod>2021-08-16T07:56:55-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:8000/2022/11/11/Same-as-it-ever-was/</loc>
+<lastmod>2022-11-11T02:20:06-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:8000/about</loc>
+</url>
+<url>
+<loc>http://localhost:8000/</loc>
+</url>
+<url>
+<loc>http://localhost:8000/resume</loc>
+</url>
+</urlset>

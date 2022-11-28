@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/eddiemccreary
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.heorot.org
+  * I am eddiemccreary (https://keybase.io/eddiemccreary) on keybase.
+  * I have a public key with fingerprint B31F 88A9 5C9A F6DB 712A  3573 6260 F54C A6CC 64EC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012094cb8ab0fc8f8bb9fa26cecbb4bfc8c8264be9fa4434623b91ade96e0d83b9440a",
+      "fingerprint": "b31f88a95c9af6db712a35736260f54ca6cc64ec",
+      "host": "keybase.io",
+      "key_id": "6260f54ca6cc64ec",
+      "kid": "01013217f504893638468e694185bcc65b5e0e93c42095115b67b700e32e9f7f798d0a",
+      "uid": "e33e3ba66af3ed9debe4e7a2afd27619",
+      "username": "eddiemccreary"
+    },
+    "merkle_root": {
+      "ctime": 1668297743,
+      "hash_meta": "da832e23e2c946ade2d9da2eac91015dccd5fb39b9a26d1baa5115e30c833397",
+      "seqno": 23540838
+    },
+    "revoke": {
+      "sig_ids": [
+        "877c785ee717f83b3a47da9e1770f7b33a0df95a34c78519cb4cb8d4ac1118b20f"
+      ]
+    },
+    "service": {
+      "hostname": "www.heorot.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1668297749,
+  "expire_in": 157680000,
+  "prev": "332a12c5f90f2ca06d9ae51f0fdfde51249327dc74d1e3fa17531adaf74854dd",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owJ4nG1Ta2wVRRTuA6VUieUR5NHSuC0UpFx3d2Z3di9giiCK8oo8Ilq4zs7MttvH
+3cvubUutpRG8tEBrIUjDQyMJQiQRsKE8QrFFwWhbKBobIAKWh1pbQCEUEIvgbAMx
+Me6fmTn7ne985zsza/vHRsVHN2/ZnZz0fu2+6JZOI4qEICoRDJsWC/4SIZf1LiyP
+MjccyLWo4BdESRZ1SAwNG6JJNFMzDN3EskoYMQxo8BDRZBUajEchBFCVgaFLmDJd
+ZSLV+AFCEQvpgmkFs5gTcqxgmNMaQDI1DesK0bGpUgNJMgYKAqqsiqYCCVYJUSEj
+PDHbdr0MLs7ALvNZNo/xQ6BX3v/gH+kWJSBLyFREqOlABRpUNabqUNIUg2MVQ2Ei
+0wGBvD9FkhRDRQYSRQZk3goyka7RXt0FvXQMAAYMrKrYBIzqlBkMMoRlbFIZqZLu
+AV3mBHE+89CUWiyfEIdhp1goTRfymZObxwKObYc9h0nY8nCSqmqyjhAEvEvsZgfy
+WRjzdIo1rkIGTCY6VLmXMq+IZYaJzrtSKCFUMQ2gGzofBJUMjL0GGBCJBgDQERfj
+siVBW/DLQIGiBjQuwWGFdi7zqrtWFjfPFfxHyt4UNIQI0hTGEPeKjwtgiCjWmYSQ
+aCIDACxSU1cwgB5M0onhXQYKMZEkSTNk0RQWlXr1nEKL9NJ783roQ1FRkS+b2Y4d
+9tlOFpcV4lub2Hn8X3Y4HHL9njnh4lAvmBmBhzQBwwpSfl94RiFzXMsOcrM48r++
+6ekCWxqyHBawPISCVE3kn1eHFXJKAGQsyUQxddGUCRZVqmOmSKZoUpPyjQx1ICNK
+EKQSAyaWkAL43cUmgpoCKf3XSAC5TpzFObl7QRwucJhQGr8qBvSJio6PShryTJ9l
+h3+sFb5L6DeiYhV59MYei/EeWFR8v4RHEVN56oE7rm7aobHpXZvan3uro+n+6Yvd
+GY23n22bOHFfeG3bvtSkzLbRCbk980retoMna5akaZ9ERrh1161XkrvKdj2Y3R0k
+ywr3hib46vrNGfTDkDuhnC0p5cfvRDIqOyrHTko135158PicjBT/T7t2198bue3q
+pY83fzk3RWq82zH4dGdi4ELbjr7jSjIPJkxrT/mjkTTOONyaPWx++Zr6i3e3dD5+
+tuWz1YuLGus/jJxK3FUzL1ztkgGbPq3OXHHlfsPwn0fV5h5sQNur0rY6w97oLrB8
+2t6r/sIFq29Gb7hR5rt5bEyE5Py1EdFvph8ITUrevrRpQ8O574OXN8et39nsG/PO
++OwpreNwWehWWl7Pic/Pr6j9KG5leVxL1ei69eCFOTl9r1UfADPT/lyZXEsbX6rL
+Gnzm0vy534oFZIZ/8p4jlct+64mBVcWnXtz5RWBNxv7Xx1Qe/npWqjx7ZNnpjguV
+1rrYD34vmN5zpaE+UhE3sy1VaN2Ys7jrq61H00pP3GrWfbOGJA+IjNoTe7H7ekvs
+tbXDfa7/1a6X2wcfWnhq24yhFWrGytv2dnxmatPkJ9ordiyIiexPeC9JnlV+tH/o
+7IGme+uyFnYmLv/19qD2Gz3TTw7MG+ifWlDzXnz7a60dS48teP5o9YRpqyfWgHVw
+/JWWqr/HL+o7xb/36Skk08lYfuOXueWXNzef21aWeOn8pPonh/4DancVBg==
+=RO1D
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eddiemccreary
+
+==================================================================
