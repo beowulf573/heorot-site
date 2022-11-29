@@ -21,6 +21,10 @@
 <lastmod>2022-11-11T02:20:06-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:8000/2022/11/29/I-am-the-keymaster/</loc>
+<lastmod>2022-11-29T02:17:02-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:8000/about</loc>
 </url>
 <url>
@@ -28,5 +32,8 @@
 </url>
 <url>
 <loc>http://localhost:8000/resume</loc>
+</url>
+<url>
+<loc>http://localhost:8000/page2/</loc>
 </url>
 </urlset>

@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>I am the Keymaster</title>
+				
+				
+					<description>&lt;h1 id=&quot;are-you-the-gatekeeper&quot;&gt;Are you the Gatekeeper?&lt;/h1&gt;
+</description>
+				
+				<pubDate>Tue, 29 Nov 2022 02:17:02 -0600</pubDate>
+				<link>http://localhost:8000/2022/11/29/I-am-the-keymaster/</link>
+				<guid isPermaLink="true">http://localhost:8000/2022/11/29/I-am-the-keymaster/</guid>
+			</item>
+		
+			<item>
 				<title>Same as it ever was</title>
 				
 				
