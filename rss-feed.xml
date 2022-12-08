@@ -7,6 +7,19 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Well, there's your problem</title>
+				
+				
+					<description>&lt;p&gt;I’ve been trying to get &lt;a href=&quot;https://wttr.in/&quot;&gt;wttr.in&lt;/a&gt; to show weather condtions with Unicode glyphs for the current conditions and phase of the moon in my tmux status bar, 
+but was constantly getting a double status bar.  It appears that double byte unicode characters worked but longer one failed, even after upgrading to 3.3a.  After poking at it all evening, it looks like linking it against &lt;a href=&quot;http://juliastrings.github.io/utf8proc/&quot;&gt;utf8proc&lt;/a&gt; is the magic sauce to make it all work.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 07 Dec 2022 15:51:17 -0600</pubDate>
+				<link>http://localhost:8000/2022/12/07/Well,-there's-your-problem/</link>
+				<guid isPermaLink="true">http://localhost:8000/2022/12/07/Well,-there's-your-problem/</guid>
+			</item>
+		
+			<item>
 				<title>I am the Keymaster</title>
 				
 				
